@@ -1,0 +1,15 @@
+% Table I (auto-generated from Colab as table1.tex)
+\begin{table}[t]
+\centering
+\input{table1.tex}
+\caption{Decision prediction accuracy (mean $\pm$ std) over 5-fold CV.}
+\label{tab:main}
+\end{table}
+
+% Figure 1 (exported from Colab as research_results.png)
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.9\columnwidth]{research_results.png}
+\caption{Model comparison and uncertainty analysis.}
+\label{fig:results}
+\end{figure}

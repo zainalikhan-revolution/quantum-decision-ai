@@ -1,0 +1,10 @@
+\section{Reproducibility Checklist}
+To facilitate replication, we provide:
+\begin{itemize}
+  \item \textbf{Code}: Git repository with fixed random seeds, environment file, and scripts for training/evaluation.
+  \item \textbf{Data}: Synthetic generator and instructions for collecting real human-decision data via Google Forms.
+  \item \textbf{Config}: YAML files listing all hyperparameters and ablation toggles.
+  \item \textbf{Results}: CSV files of all runs and \texttt{.tex} tables auto-generated from code.
+  \item \textbf{Figures}: Scripts that recreate all plots from raw logs.
+\end{itemize}
+All experiments were run with 5-fold stratified cross-validation; we report mean~$\pm$~std.

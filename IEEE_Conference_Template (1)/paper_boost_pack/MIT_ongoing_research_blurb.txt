@@ -1,0 +1,10 @@
+Ongoing independent research: Quantum-Inspired Modeling of Human Decisions.
+I designed and implemented a quantum-inspired framework that represents human
+choices as superpositions, models option interactions via entanglement, and
+performs measurement with confidence/emotion factors. I built a full
+experimental pipeline (5-fold CV, baselines like RF/SVM/XGBoost/MLP) with
+auto-generated LaTeX tables/figures for Overleaf. Current results are
+preliminary on synthetic scenarios; I am collecting real human-decision data
+(Google Forms) to test ecological validity, running ablations, and releasing
+a reproducible GitHub package. This project reflects my background—working
+resourcefully without labs—and my goal to build interpretable human-centered AI.
